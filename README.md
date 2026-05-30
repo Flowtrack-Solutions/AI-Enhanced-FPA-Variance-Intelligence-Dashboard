@@ -130,6 +130,17 @@ The Copilot dynamically generates:
 * Strategic Risk Assessment
 * Solution Architecture Documentation
 
+ ## Documentation
+
+The latest project documentation and Power BI source file are available in the Documentation folder.
+
+### Available Files
+
+- AI_Enhanced_FPA_Variance_Intelligence_v1.1.pdf
+- AI_Enhanced_FPA_Variance_Intelligence_v1.1.pbix
+
+These files include the complete 6-page solution featuring the FlowTrack AI FP&A Copilot, executive variance intelligence, forecast confidence scoring, strategic risk assessment, and AI-generated decision support.
+
 ---
 
 © FlowTrack Solutions | BI & Automation
